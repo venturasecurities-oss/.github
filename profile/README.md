@@ -44,23 +44,21 @@ Whether you're a startup, fintech product team, or a solo developer, EaseAPI pro
 <table>
 <tr>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></td>
-  <td><strong>Node.js SDK</strong><br/><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-nodejs</a></td>
+  <td><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-nodejs</a></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/python.png"/></td>
-  <td><strong>Python SDK</strong><br/><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-python</a></td>
+  <td><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-python</a></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></td>
-  <td><strong>Java SDK</strong><br/><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-java</a></td>
+  <td><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-java</a></td>
 </tr>
 </table>
 
 ---
 
 ## ✨ Features at a Glance
-
-<img src="https://raw.githubusercontent.com/venturasecurities/.github/main/assets/easeapi-diagram.png" width="100%" alt="EaseAPI architecture overview"/>
 
 - 🔐 **Secure SSO Authentication**
 - 📈 **Real-time Order Execution**
@@ -69,32 +67,7 @@ Whether you're a startup, fintech product team, or a solo developer, EaseAPI pro
 - ⚙️ **Production-ready SDKs**
 - 💡 **Developer-first Documentation**
 
----
 
-## 🧪 Try It Out
-
-Clone our [Node.js SDK](https://github.com/venturasecurities/easeapi-node) and run the sample project:
-
-```bash
-git clone https://github.com/venturasecurities/easeapi-node.git
-cd easeapi-node
-npm install
-npm run start
-```
-
-Get your keys here → [EaseAPI Developer Portal](https://easeapi.venturasecurities.com/portal)
-
----
-
-## 🧑‍💻 Developers & Builders
-
-Want to build your own platform or tool?  
-Use EaseAPI to focus on the product, not plumbing.
-
-📬 [opensource@venturasecurities.com](mailto:opensource@venturasecurities.com)  
-🛠 [Contribute to EaseAPI](https://github.com/venturasecurities/easeapi-node/blob/main/CONTRIBUTING.md)
-
----
 
 ## 🛣 Roadmap
 
