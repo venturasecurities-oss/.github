@@ -86,15 +86,11 @@ Whether you're a startup, fintech product team, or a solo developer, EaseAPI pro
 
 We believe in an open future for fintech — one where developers can build amazing things without gatekeepers.
 
-🌐 [Website](https://www.venturasecurities.com)  
+🌐 [Website](https://www.venturasecurities.com/easeapi/)
 📚 [Documentation](https://easeapi.venturasecurities.com/docs)  
 🧭 [EaseAPI Portal](https://easeapi.venturasecurities.com/portal)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/venturasecurities/.github/main/assets/footer.png" alt="Ventura Footer" width="400" />
-</p>
 
 <p align="center">
   Made with ❤️ by <strong>Ventura Securities Ltd</strong><br/>
