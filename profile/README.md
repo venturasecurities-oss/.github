@@ -1,8 +1,9 @@
 <!-- .github/README.md -->
 
-<p align="center">
+<!-- <p align="center"> 
   <img src="https://raw.githubusercontent.com/venturasecurities/.github/main/assets/easeapi-banner.png" alt="EaseAPI Banner" width="100%" />
 </p>
+-->
 
 <h1 align="center">🚀 Welcome to Ventura Securities Ltd</h1>
 
