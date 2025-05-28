@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/open%20source-fintech-blue.svg" />
   <img src="https://img.shields.io/badge/made%20with-Love-green.svg" />
-  <img src="https://img.shields.io/github/license/venturasecurities-oss/easeapi-nodejs" />
+  <img src="https://img.shields.io/github/license/venturasecurities-oss/easeapi-python" />
 </p>
 
 
@@ -48,11 +48,11 @@ Whether you're a startup, fintech product team, or a solo developer, EaseAPI pro
 </tr>
 <tr>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/python.png"/></td>
-  <td><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-python</a></td>
+  <td><a href="https://github.com/venturasecurities-oss/easeapi-python">EaseApi-python</a></td>
 </tr>
 <tr>
   <td align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></td>
-  <td><a href="https://github.com/venturasecurities-oss/easeapi-nodejs">EaseApi-java</a></td>
+  <td><a href="https://github.com/venturasecurities-oss/easeapi-java">EaseApi-java</a></td>
 </tr>
 </table>
 
