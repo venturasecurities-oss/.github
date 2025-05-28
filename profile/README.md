@@ -86,7 +86,7 @@ Whether you're a startup, fintech product team, or a solo developer, EaseAPI pro
 
 We believe in an open future for fintech — one where developers can build amazing things without gatekeepers.
 
-🌐 [Website](https://www.venturasecurities.com/easeapi/)
+🌐 [Website](https://www.venturasecurities.com/easeapi/)  
 📚 [Documentation](https://easeapi.venturasecurities.com/docs)  
 🧭 [EaseAPI Portal](https://easeapi.venturasecurities.com/portal)
 
