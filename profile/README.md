@@ -23,9 +23,11 @@
 
 ## 💼 What is EaseAPI?
 
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/venturasecurities/.github/main/assets/trading-platform-illustration.png" width="60%" alt="Fintech illustration">
 </div>
+-->
 
 **EaseAPI** is Ventura Securities' flagship open API platform — enabling developers to build modern, scalable, and feature-rich trading & investment applications.
 
